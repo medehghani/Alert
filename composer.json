@@ -1,14 +1,14 @@
 {
-  "name": "rdlowrey/alert",
-  "homepage": "https://github.com/rdlowrey/alert",
+  "name": "medehghani/alert",
+  "homepage": "https://github.com/medehghani/alert",
   "description": "Event loops for event-driven/async PHP",
   "keywords": ["non-blocking", "events", "libevent", "async"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Daniel Lowrey",
+      "name": "Mehdi Dehghani",
       "email": "rdlowrey@gmail.com",
-      "role": "Creator / Lead Developer"
+      "role": "Republisher / Orginaly made by Daniel Lowrey"
     }
   ],
   "require": {
